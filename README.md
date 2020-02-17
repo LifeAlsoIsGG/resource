@@ -3,3 +3,7 @@
 
    > https://crxdl.com/
 
+2. pornhub's logo generation
+
+   > https://logoly.pro/
+
