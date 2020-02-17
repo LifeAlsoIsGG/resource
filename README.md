@@ -1,2 +1,5 @@
 # resource
- 自用资源
+1. chrom插件无需vpn
+
+   > https://crxdl.com/
+
